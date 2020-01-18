@@ -1,0 +1,15 @@
+{
+  "name": "04-models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "models.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jet-city-software/validator": "0.0.1",
+    "uuid": "^3.4.0"
+  }
+}
