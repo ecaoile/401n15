@@ -23,6 +23,9 @@ Data Modeling: The process of taking a real world or conceptual idea and encodin
 
 <!-- To Be Completed By Instructor -->
 
-- Topic 1
-- Topic 2
-- ...
+- Data Models
+- Collections
+- Business Rules
+- Code Review 04
+- Mongo Models and Tools
+- Linked Lists
